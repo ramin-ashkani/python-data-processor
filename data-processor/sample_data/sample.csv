@@ -1,0 +1,9 @@
+id,name,age,salary,department,join_date
+1, Alice ,34,70000, Engineering ,2020-01-07
+2,Bob,29,56000,Sales,2019-11-12
+3,Charlie,,60000,Engineering,2021-06-01
+4,David,45,,HR,2018-03-23
+5,Alice,34,70000,Engineering,2020-01-07
+6,Edward,38,82000,Sales,2017-09-30
+7,,27,48000,Support,2022-02-15
+8,Fran,31,53000,,2020-10-01
